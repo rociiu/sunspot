@@ -220,7 +220,7 @@
     <!-- extra options                                               -->
     <!-- =========================================================== -->
     <Set name="stopAtShutdown">true</Set>
-    <Set name="sendServerVersion">false</Set>
+    <Set name="sendServerVersion">true</Set>
     <!--
     those two config broken in our server
     <Set name="sendDateHeader">false</Set>
