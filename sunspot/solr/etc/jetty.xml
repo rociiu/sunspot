@@ -220,8 +220,11 @@
     <!-- extra options                                               -->
     <!-- =========================================================== -->
     <Set name="stopAtShutdown">true</Set>
+    <!--
+    those two config broken in our server
     <Set name="sendServerVersion">false</Set>
     <Set name="sendDateHeader">false</Set>
+    -->
     <Set name="gracefulShutdown">1000</Set>
 
 </Configure>
